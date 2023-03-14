@@ -1,4 +1,4 @@
-# Rock Paper Scissors Game
+# Meme Generator
 
 ![preview](./.github/meme-generator.jpg)
 
